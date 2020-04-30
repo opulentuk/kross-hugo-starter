@@ -35,8 +35,8 @@ sections:
 - type: document
   path: config.toml
   label: Configuration
-upload_dir: static/images
-public_path: "/images"
+upload_dir: https://cloudinary.com/console/c-f792e41919676ef52214a1811f242a/media_library/recent_uploads
+public_path: https://cloudinary.com/console/c-f792e41919676ef52214a1811f242a/media_library/folders/%2F
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
