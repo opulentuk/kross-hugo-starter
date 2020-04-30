@@ -35,7 +35,7 @@ sections:
 - type: document
   path: config.toml
   label: Configuration
-upload_dir: https://cloudinary.com/console/c-f792e41919676ef52214a1811f242a/media_library/recent_uploads
+upload_dir: https://api.cloudinary.com/v1_1/blowmaster/image/upload
 public_path: https://cloudinary.com/console/c-f792e41919676ef52214a1811f242a/media_library/folders/%2F
 front_matter_path: ''
 use_front_matter_path: false
