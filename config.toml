@@ -6,7 +6,7 @@ title = "Kross | Hugo Portfolio Template"
 [[menu.main]]
 URL = "Main"
 name = "main"
-weight = "2"
+weight = "1"
 [[menu.main]]
 URL = "about"
 name = "About"
