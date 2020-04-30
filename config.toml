@@ -32,7 +32,7 @@ phone = "+447956345777"
 theme_color = "#41228e"
 [params.contact]
 enable = true
-form_action = "#"
+form_action = "mailtalt@blowmaster.co.uk"
 [[params.plugins.css]]
 URL = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
